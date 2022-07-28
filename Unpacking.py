@@ -8,7 +8,7 @@ coordinates = (1, 2, 3)    #A tuple
 #z = coordinates [2]
 
 """Instead of repeating coordinates of 2 or coordinates of 0 multiple times,
- we can simply walk with the variables below called unpacking with that
+ we can simply work with the variables below called unpacking with that
  same result can be achieved with far less codes"""
 
 x, y, z = coordinates          #this is a shorthand to achieve same result above. How it works is that when phyton interpreter sees this statement
