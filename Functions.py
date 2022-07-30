@@ -10,3 +10,5 @@ def greet_user():
 print("Start")
 greet_user()
 print("Finish")
+
+#its important to know that we always define our functions first the call them
